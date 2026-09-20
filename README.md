@@ -62,7 +62,7 @@ I built my portfolio as an interactive pixel-art world where different islands r
 ### 📫 Connect With Me
 
 * **Portfolio:** https://fatimazehrashakeel.netlify.app/
-* **LinkedIn:** https://www.linkedin.com/in/fatima-shakeel-75a048367/
+* **LinkedIn:** https://www.linkedin.com/in/fatima-zehra-shakeel/
 * **GitHub:** You're already here 😄
 
 ---
